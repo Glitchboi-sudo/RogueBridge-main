@@ -1,9 +1,16 @@
 [[README]]
 # RogueBridge
 
-<p align="center">
-  <img src="docs/logo.png" alt="Logo de Glitchboi" width="200">
-</p>
+<h3 align="center">
+  <pre>
+ ██████╗ ██╗     ██╗████████╗ ██████╗██╗  ██╗██████╗  ██████╗ ██╗
+██╔════╝ ██║     ██║╚══██╔══╝██╔════╝██║  ██║██╔══██╗██╔═══██╗██║
+██║  ███╗██║     ██║   ██║   ██║     ███████║██████╔╝██║   ██║██║
+██║   ██║██║     ██║   ██║   ██║     ██╔══██║██╔══██╗██║   ██║██║
+╚██████╔╝███████╗██║   ██║   ╚██████╗██║  ██║██████╔╝╚██████╔╝██║
+ ╚═════╝ ╚══════╝╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝
+  </pre>
+</h3>
 <p align="center">
   <strong>Desarrollado por Glitchboi</strong><br>
   Seguridad desde México para todos
@@ -33,7 +40,6 @@ Incluye:
 - [Instalación](#-instalación)
 - [Uso](#-uso)
 - [Detalles](#-detalles)
-- [TODO](#-todo)
 - [Contribuir](#-contribuir)
 - [Créditos](#-créditos)
 
